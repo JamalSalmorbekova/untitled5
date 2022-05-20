@@ -1,0 +1,64 @@
+div {
+    color: #4f0443;
+    text-align: center;
+}
+
+.text{
+    text-transform: uppercase;
+}
+
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-color: deeppink;
+    overflow: hidden;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+form{
+    background-color: white;
+    width: 600px;
+    padding: 100px;
+    columns:600px;
+    border-radius: 30px;
+    margin: 130px;
+    margin-left: 460px;
+}
+
+label{
+    color: #dd00ff;
+    display: block;
+}
+
+.formContent{
+    width: 600px;
+    margin: 50px 0px 10px 150px;
+}
+
+.forgotPassword{
+    padding: 10px;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    font-family: "Bahnschrift";
+    margin: 10px 10px 30px 10px;
+    width: 560px;
+    border-radius: 30px;
+}
+
+input:hover {
+    background-color: #ea7ce4;
+}
+
+.login{
+    text-align: center;
+    width: 120px;
+    margin-left: 230px;
+}
